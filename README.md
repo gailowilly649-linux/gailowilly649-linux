@@ -31,7 +31,7 @@
 </p>
 
 <!-- Profile Views Shield -->
-<img src="https://komarev.com/ghpvc/?username=gailowilly551-afk&style=flat-square&color=00ffa3&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Willy-kali&style=flat-square&color=00ffa3&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -43,7 +43,7 @@
 identity:
   name: Willy Gailo
   alias: NEXBUG
-  handle: gailowilly551-afk
+  handle: Willy-kali
   focus: [Web App Pentesting, API Security, Auth Bypass, Business Logic Flaws]
   specialization: [IDOR / BOLA, SSRF, OAuth2/OIDC Chains, Remote Code Execution]
   philosophy: "Pure logic, surgical reconnaissance, reproducible proof-of-concepts."
@@ -112,12 +112,12 @@ identity:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gailowilly551-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFA3&text_color=94A3B8&icon_color=00FFA3" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gailowilly551-afk&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFA3&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Willy-kali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFA3&text_color=94A3B8&icon_color=00FFA3" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Willy-kali&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFA3&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3" width="49%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gailowilly551-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=94A3B8" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-kali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=94A3B8" width="55%" />
 
 </div>
 
